@@ -1,0 +1,26 @@
+.container{
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#preview{
+  border: dotted black;
+  min-width: 800px;
+  background-color: aquamarine;
+  padding: 20px;
+}
+
+#editor{
+  max-width: 800px;
+  min-width: 800px;
+  background-color: aquamarine;
+  height: 300px;
+  scroll-behavior: smooth;
+  margin-bottom: 20px;
+  padding: 20px;
+  border: solid black;
+}
