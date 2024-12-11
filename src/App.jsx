@@ -11,11 +11,13 @@ function App() {
 [title](https://www.example.com)
 \`inline code\`
 
+\`\`\`
 {
-"firstName": "John",
-"lastName": "Smith",
-"age": 25
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
 }
+\`\`\`
 
 - [ ] Write the press release
 - [x] Update the website
